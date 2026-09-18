@@ -1,0 +1,127 @@
+{
+   "spotlight_project_id": 1,
+   "featured_projects": [
+      {
+         "id": 1,
+         "title": "Agentic AI Automation Systems",
+         "description": "Master's thesis project implementing two production-style agentic AI automation systems on self-hosted n8n: a Customer Support Chatbot with a hybrid PageIndex Tree + Pinecone-backed RAG knowledge base, confidence scoring, conversational memory, and human-in-the-loop escalation via Telegram, and a Personal Virtual Assistant that manages Gmail and Google Calendar with a plan-then-approve safety gate. Each system ships with its own workflows, datasets, knowledge base, and a full evaluation suite -- 1,000 test cases run per system.",
+         "date": "June 2026",
+         "tools_tech": [
+            "n8n",
+            "Anthropic Claude",
+            "OpenAI GPT-4o",
+            "Google Gemini",
+            "Pinecone",
+            "PageIndex",
+            "Gmail API",
+            "Google Calendar API",
+            "Telegram Bot API"
+         ],
+         "features": [
+            "Customer Support Chatbot: hybrid PageIndex Tree + Pinecone RAG retrieval with confidence scoring and automatic escalation",
+            "Personal Virtual Assistant: LLM-driven email management, calendar scheduling, and task coordination with a plan-then-approve gate",
+            "Multi-LLM orchestration across Anthropic Claude, OpenAI GPT-4o, and Gemini",
+            "1,000 test cases per system, run through dedicated n8n test-runner workflows"
+         ],
+         "github": "https://github.com/Ajla115/Agentic-AI-Automation-Systems",
+         "live": ""
+      },
+      {
+         "id": 2,
+         "title": "Secure Software System Development Project",
+         "description": "A PHP web application built to demonstrate secure software development practices: two-factor authentication, email/SMS verification, time-expiring password resets, and credential-breach detection checked against a user's password history.",
+         "date": "August 2024",
+         "tools_tech": ["PHP", "MySQL", "Composer", "PHPMailer"],
+         "features": [
+            "Two-factor authentication and email/SMS verification flows",
+            "Time-expiring password reset workflow",
+            "Credential-breach detection across user password history",
+            "Backend protocols designed to block fraud, replay, and false entries"
+         ],
+         "github": "https://github.com/Ajla115/Secure-Software-System-Development-Project",
+         "live": ""
+      },
+      {
+         "id": 3,
+         "title": "InstaMetrics",
+         "description": "A full-stack web application for tracking Instagram account statistics, researching hashtags, and sending automated direct messages across Instagram, Facebook, and WhatsApp. Python/Selenium and Instaloader scripts scrape Instagram data, which a PHP (Flight) REST API and a Next.js/React/MUI frontend surface for analysis and outreach scheduling.",
+         "date": "March 2026",
+         "tools_tech": [
+            "PHP",
+            "Next.js",
+            "React",
+            "MUI",
+            "MySQL",
+            "Python",
+            "Selenium",
+            "JWT"
+         ],
+         "features": [
+            "Collects Instagram user and hashtag statistics via headless Selenium/Instaloader scripts",
+            "REST API (PHP Flight framework) with JWT authentication and DAO-based data access",
+            "Sends and schedules outreach messages across Instagram, Facebook, and WhatsApp",
+            "Next.js + MUI dashboard for browsing collected stats"
+         ],
+         "github": "https://github.com/Ajla115/Instagram-Stats-Web-Tracking-App",
+         "live": ""
+      },
+      {
+         "id": 4,
+         "title": "Movies Watchlist",
+         "description": "A microservice movie-tracking application: a Java Spring backend (about 90% test coverage) paired with a React frontend tested in Jest and React Testing Library. Recommends genres and similar titles via the OpenAI API and emails genre-matched suggestions whenever a movie is marked \"Watched\".",
+         "date": "June 2025",
+         "tools_tech": ["Java", "Spring", "React", "OpenAI API", "Jest"],
+         "features": [
+            "Java Spring backend with ~90% test coverage",
+            "React frontend tested with Jest and React Testing Library",
+            "OpenAI-powered genre prediction and similar-movie recommendations",
+            "Automated email notifications for genre-matched suggestions"
+         ],
+         "github": "https://github.com/Ajla115/Movies-Watchlist-FE-React-SE-Project",
+         "live": ""
+      },
+      {
+         "id": 5,
+         "title": "Car Rental Web Application",
+         "description": "A fully functional, responsive car rental platform with a dual dashboard for admins and customers, built in PHP. Covered by backend unit tests in PHP and a companion Selenium (Page Object Model) automated test suite.",
+         "date": "June 2024",
+         "tools_tech": ["PHP", "MySQL", "Selenium", "HTML/CSS"],
+         "features": [
+            "Dual dashboard: separate admin and customer views",
+            "Full booking and fleet management flow",
+            "Backend unit tests written in PHP",
+            "Companion Selenium/POM automated UI test suite"
+         ],
+         "github": "https://github.com/Ajla115/Car-Rental-SE-Project",
+         "live": ""
+      },
+      {
+         "id": 6,
+         "title": "Real-Time Image Analytics Pipeline",
+         "description": "A real-time image analytics pipeline: Kafka streams image metadata to an OpenCV worker for object recognition, results land in Elasticsearch for search, and AWS EMR MapReduce runs batch statistics over the recognized objects, visualized in Kibana.",
+         "date": "April 2025",
+         "tools_tech": [
+            "Python",
+            "Apache Kafka",
+            "OpenCV",
+            "AWS EMR",
+            "MapReduce",
+            "Elasticsearch",
+            "Kibana"
+         ],
+         "features": [
+            "Kafka-based streaming pipeline for incoming image metadata",
+            "OpenCV object recognition on each incoming image",
+            "Searchable results index in Elasticsearch",
+            "Batch statistics over recognized objects via AWS EMR MapReduce, visualized in Kibana"
+         ],
+         "github": "https://github.com/Ajla115/Real-Time-Image-Analytics-Pipeline",
+         "live": ""
+      }
+   ],
+   "collaborative_projects": [],
+   "other_projects": [],
+   "community_projects": [],
+   "open_source_contributions": [],
+   "community_discussions": []
+}

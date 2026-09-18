@@ -1,0 +1,61 @@
+{
+   "professional_experience": [
+      {
+         "id": 1,
+         "date": "September 2025 - June 2026",
+         "title": "Software Engineer Intern",
+         "position": "Internship",
+         "company": "Confidential Client",
+         "location": "Sarajevo, Bosnia and Herzegovina",
+         "summary": "Working on the development of a full-stack application based on the client's needs, with a focus on secure backend practices and AI-driven video analytics.",
+         "projects": [
+            {
+               "name": "AI Face Recognition & Video Analytics System",
+               "date": "Sep 2025 - Jun 2026",
+               "description": {
+                  "1": "Developing an AI face-recognition system that identifies objects from video footage using reference images (Python, face_recognition / dlib).",
+                  "2": "Built a secure REST backend and frontend applying OWASP Top 10 best practices -- authentication, input validation, and session management.",
+                  "3": "Developed custom scrapers for data ingestion pipelines."
+               },
+               "skills": [
+                  "Python",
+                  "face_recognition",
+                  "dlib",
+                  "REST API",
+                  "OWASP Top 10",
+                  "Web Scraping"
+               ]
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "date": "February 2024 - Present",
+         "title": "Teaching Assistant",
+         "position": "Part-time",
+         "company": "International Burch University",
+         "location": "Sarajevo, Bosnia and Herzegovina",
+         "summary": "Lead lab sessions across 10+ CS courses and support the department's teaching, mentoring, and outreach programs.",
+         "projects": [
+            {
+               "name": "CS Teaching & Curriculum Development",
+               "date": "Feb 2024 - Present",
+               "description": {
+                  "1": "Lead lab sessions across 10+ CS courses: Python, web and mobile development, GDPR regulations.",
+                  "2": "Designed and published a beginner-friendly SQL course on the university's Decamas e-learning platform.",
+                  "3": "Host the annual Freshman Welcome Day and run Python workshops for high-school students.",
+                  "4": "Mentor domestic and international students as a Buddy."
+               },
+               "skills": [
+                  "Python",
+                  "SQL",
+                  "Curriculum Design",
+                  "Mentoring",
+                  "Public Speaking"
+               ]
+            }
+         ]
+      }
+   ],
+   "positions_of_responsibility": []
+}

@@ -1,0 +1,49 @@
+{
+   "name": "Ajla Korman",
+   "title": "AI Software Engineer",
+   "role": "Teaching Assistant",
+   "employer": "International Burch University",
+   "location": "Sarajevo, Bosnia and Herzegovina",
+   "timezone": "Europe/Sarajevo",
+   "intro": "AI software engineer focused on production-grade LLM systems -- agentic pipelines combining RAG, vector search, and PageIndex Tree retrieval. Currently building an AI face-recognition system in production, with 2.5 years of experience teaching computer science at university level.",
+   "role_label": "AI Software Engineer",
+   "hero_taglines": [
+      "Building agents that actually ship.",
+      "RAG, agents, and real evaluation.",
+      "From thesis to production.",
+      "Security-minded, by training."
+   ],
+   "headline": "Building agentic AI that ships.",
+   "availability": "M.Sc. graduate in AI Software Engineering, open to AI engineering opportunities",
+   "contact": {
+      "github": "Ajla115"
+   },
+   "about": {
+      "greeting": "👋 Hi, my name is Ajla Korman.",
+      "current_role": "💼 Software Engineering Intern building an AI face-recognition system in production, and a Teaching Assistant across 10+ CS courses at International Burch University.",
+      "specialization": "🚀 Master's thesis on two agentic AI pipelines: hybrid RAG + PageIndex Tree retrieval, multi-LLM orchestration (Claude, Gemini, GPT-4o), and workflow automation on self-hosted n8n -- 1,000 test cases run per system.",
+      "education": "🎓 M.Sc. Information Technologies (AI Software Engineering) at International Burch University (GPA 9.5/10), building on a B.Sc. in Information Technologies (GPA 9.46/10).",
+      "recognition": "🏆 Atlantbh Scholarship recipient (top 10 IT students in Bosnia & Herzegovina) and 3rd place at the EESTech Challenge Sarajevo -- plus 2.5 years mentoring students and running Python workshops as a Buddy."
+   },
+   "languages": [
+      { "name": "English", "level": "Fluent" },
+      { "name": "German", "level": "Intermediate" }
+   ],
+   "social_profiles": [
+      {
+         "id": 1,
+         "name": "LinkedIn",
+         "link": "https://www.linkedin.com/in/ajla-korman-2861841b3/",
+         "icon": "BsLinkedin"
+      },
+      {
+         "id": 2,
+         "name": "GitHub",
+         "link": "https://github.com/Ajla115",
+         "icon": "FaGithub"
+      }
+   ],
+   "site": {
+      "tech_stack": ["React 19", "Vite 8", "Tailwind v4", "Motion", "Lenis"]
+   }
+}

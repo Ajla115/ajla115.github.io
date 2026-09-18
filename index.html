@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+      <!-- SEO Meta Tags -->
+      <meta
+         name="description"
+         content="Ajla Korman - AI Software Engineer. Portfolio showcasing agentic AI systems, RAG pipelines, full-stack web development, and application security projects."
+      />
+      <meta
+         name="keywords"
+         content="Ajla Korman, AI Software Engineer, Agentic AI, RAG, LLM, n8n, Full-Stack Developer, Application Security, Portfolio, International Burch University"
+      />
+      <meta name="author" content="Ajla Korman" />
+      <meta name="theme-color" content="#0b1012" />
+      <meta name="robots" content="index, follow" />
+      <link rel="canonical" href="https://ajla115.github.io/" />
+
+      <!-- Open Graph / Facebook -->
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://ajla115.github.io/" />
+      <meta property="og:title" content="Ajla Korman | AI Software Engineer" />
+      <meta
+         property="og:description"
+         content="Agentic AI pipelines, RAG systems, and full-stack engineering. Master's thesis on multi-LLM orchestration and workflow automation."
+      />
+      <meta property="og:site_name" content="Ajla Korman Portfolio" />
+      <meta property="og:locale" content="en_US" />
+
+      <!-- Twitter -->
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="Ajla Korman | AI Software Engineer" />
+      <meta
+         name="twitter:description"
+         content="Agentic AI pipelines, RAG systems, and full-stack engineering. Master's thesis on multi-LLM orchestration and workflow automation."
+      />
+
+      <!-- JSON-LD Structured Data -->
+      <script type="application/ld+json">
+         {
+            "@context": "https://schema.org",
+            "@graph": [
+               {
+                  "@type": "Person",
+                  "@id": "https://ajla115.github.io/#person",
+                  "name": "Ajla Korman",
+                  "url": "https://ajla115.github.io",
+                  "image": "https://avatars.githubusercontent.com/Ajla115",
+                  "jobTitle": "AI Software Engineer",
+                  "description": "AI software engineer focused on production-grade LLM systems: agentic pipelines combining RAG, vector search, and PageIndex Tree retrieval.",
+                  "worksFor": {
+                     "@type": "Organization",
+                     "name": "International Burch University",
+                     "url": "https://www.ibu.edu.ba/department-of-information-technologies"
+                  },
+                  "alumniOf": {
+                     "@type": "CollegeOrUniversity",
+                     "name": "International Burch University",
+                     "url": "https://www.ibu.edu.ba/department-of-information-technologies"
+                  },
+                  "address": {
+                     "@type": "PostalAddress",
+                     "addressLocality": "Sarajevo",
+                     "addressCountry": "BA"
+                  },
+                  "sameAs": [
+                     "https://github.com/Ajla115",
+                     "https://www.linkedin.com/in/ajla-korman-2861841b3/"
+                  ],
+                  "knowsAbout": [
+                     "Agentic AI",
+                     "RAG",
+                     "LLM Orchestration",
+                     "n8n",
+                     "Python",
+                     "JavaScript",
+                     "Full-Stack Development",
+                     "Application Security",
+                     "REST API"
+                  ]
+               },
+               {
+                  "@type": "WebSite",
+                  "@id": "https://ajla115.github.io/#website",
+                  "url": "https://ajla115.github.io/",
+                  "name": "Ajla Korman Portfolio",
+                  "description": "Portfolio of Ajla Korman - AI Software Engineer. Agentic AI systems, RAG pipelines, and full-stack projects.",
+                  "author": { "@id": "https://ajla115.github.io/#person" }
+               }
+            ]
+         }
+      </script>
+
+      <!-- Favicons -->
+      <link
+         rel="apple-touch-icon"
+         sizes="180x180"
+         href="/favicon_io/apple-touch-icon.png"
+      />
+      <link
+         rel="icon"
+         type="image/png"
+         sizes="32x32"
+         href="/favicon_io/favicon-32x32.png"
+      />
+      <link
+         rel="icon"
+         type="image/png"
+         sizes="16x16"
+         href="/favicon_io/favicon-16x16.png"
+      />
+      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+      <link rel="icon" type="image/svg+xml" href="/favicon_io/maker.svg" />
+      <link rel="manifest" href="/favicon_io/site.webmanifest" />
+
+      <title>Ajla Korman | AI Software Engineer</title>
+   </head>
+
+   <body>
+      <noscript>
+         <p>You need to enable JavaScript to run this app.</p>
+      </noscript>
+      <div id="root"></div>
+      <script type="module" src="/src/index.tsx"></script>
+
+      <!--
+        Analytics are injected at runtime (below) rather than declared as
+        static <script> tags so they don't block first paint AND so SRI
+        requirements don't apply -- SimpleAnalytics serves a continuously
+        updated bundle that would break any fixed integrity hash.
+      -->
+      <script type="module">
+         if (import.meta.env.VITE_ANALYTICS_ENABLED !== "false") {
+            globalThis.addEventListener("DOMContentLoaded", function () {
+               var d = globalThis.document;
+
+               // SimpleAnalytics (privacy-friendly, no cookies, auto-scoped to this domain)
+               var sa = d.createElement("script");
+               sa.async = true;
+               sa.defer = true;
+               sa.src = "https://scripts.simpleanalyticscdn.com/latest.js";
+               d.body.appendChild(sa);
+            });
+         }
+      </script>
+   </body>
+</html>

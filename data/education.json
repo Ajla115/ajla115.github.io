@@ -1,0 +1,45 @@
+[
+   {
+      "id": 1,
+      "date": "October 2024 - June 2026",
+      "title": "M.Sc. Information Technologies (AI Software Engineering)",
+      "institution": "International Burch University",
+      "department": "Department of Information Technologies",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "cgpa": "9.5",
+      "achievements": [
+         "Master's thesis on agentic AI systems: hybrid RAG retrieval, multi-LLM orchestration, workflow automation",
+         "AI system pipelines: design, deployment, and evaluation of LLM-based applications end-to-end",
+         "Distributed system architectures: monoliths, microservices, peer-to-peer, and large-scale system analysis",
+         "Cloud computing, vector and relational databases, and modern data storage patterns"
+      ],
+      "skills": [
+         "Agentic AI",
+         "RAG Pipelines",
+         "Distributed Systems",
+         "Cloud Computing",
+         "Vector Databases"
+      ]
+   },
+   {
+      "id": 2,
+      "date": "October 2021 - September 2024",
+      "title": "B.Sc. Information Technologies",
+      "institution": "International Burch University",
+      "department": "Department of Information Technologies",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "cgpa": "9.46",
+      "achievements": [
+         "Full-stack web & mobile development, OS programming, computer networks",
+         "Data science foundations, database design, and infrastructure",
+         "Broad CS foundation across 6+ tracks, enabling cross-domain engineering work"
+      ],
+      "skills": [
+         "Full-Stack Development",
+         "Operating Systems",
+         "Computer Networks",
+         "Database Design",
+         "Data Science"
+      ]
+   }
+]

@@ -1,0 +1,60 @@
+{
+   "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "PHP",
+      "SQL",
+      "HTML/CSS"
+   ],
+   "frontend": ["React", "Vue.js"],
+   "backend": ["Node.js", "Spring", "REST API", "MySQL", "MongoDB"],
+   "cloud_devops": ["AWS", "Docker", "Linux", "Git"],
+   "ai_ml": [
+      "OpenAI",
+      "Gemini",
+      "Anthropic",
+      "RAG Pipelines",
+      "Pinecone",
+      "N8N",
+      "PageIndex"
+   ],
+   "tools_platforms": ["Selenium", "Telegram Bot API", "Gmail API"],
+   "cs_fundamentals": [
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming",
+      "Computer Networks",
+      "Operating Systems",
+      "Software Engineering",
+      "Database Management Systems"
+   ],
+   "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Problem Solving",
+      "Critical Thinking",
+      "Adaptability"
+   ],
+   "areas_of_interest": [
+      "AI/ML Engineering",
+      "Full-Stack Development",
+      "Application Security",
+      "Teaching & Mentoring"
+   ],
+   "hero_stack": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "PHP",
+      "React",
+      "Node.js",
+      "AWS",
+      "Docker",
+      "N8N",
+      "Anthropic",
+      "Selenium"
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "certifications": [
+      {
+         "id": 1,
+         "name": "Certified Web Application Security Professional (CWASP)",
+         "type": "Professional Certification",
+         "issuer": "CWASP"
+      },
+      {
+         "id": 2,
+         "name": "Hands-On Penetration Testing & Ethical Hacking (CPTP)",
+         "type": "Professional Training",
+         "issuer": "CPTP"
+      },
+      {
+         "id": 3,
+         "name": "Advanced Malware Analysis & Digital Forensics",
+         "type": "Professional Training",
+         "issuer": "Self-paced training"
+      },
+      {
+         "id": 4,
+         "name": "ISO 27001 Implementation Training",
+         "type": "Professional Training",
+         "issuer": "Self-paced training"
+      }
+   ],
+   "learning_badges": [],
+   "achievements": [
+      {
+         "id": 1,
+         "title": "Atlantbh Scholarship Recipient",
+         "organizer": "Atlantbh",
+         "date": "December 2022 - October 2023",
+         "type": "Scholarship"
+      },
+      {
+         "id": 2,
+         "title": "3rd Place - EESTech Challenge",
+         "organizer": "EESTech Sarajevo",
+         "date": "March 2023",
+         "type": "Competition"
+      }
+   ],
+   "coding_platform_stats": {}
+}

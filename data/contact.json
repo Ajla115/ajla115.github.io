@@ -1,0 +1,28 @@
+{
+   "contact_options": [
+      {
+         "id": 1,
+         "icon": "MdOutlineEmail",
+         "title": "Email Me",
+         "value": "korman.ajla115@gmail.com",
+         "link": "mailto:korman.ajla115@gmail.com",
+         "message": "Send a Mail"
+      },
+      {
+         "id": 2,
+         "icon": "BsLinkedin",
+         "title": "LinkedIn",
+         "value": "ajla-korman",
+         "link": "https://www.linkedin.com/in/ajla-korman-2861841b3/",
+         "message": "Connect"
+      },
+      {
+         "id": 3,
+         "icon": "FiGithub",
+         "title": "GitHub",
+         "value": "Ajla115",
+         "link": "https://github.com/Ajla115",
+         "message": "Follow"
+      }
+   ]
+}
