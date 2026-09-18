@@ -26,7 +26,7 @@ const project: Project & { category: string } = {
    date: "September 2026",
    tools_tech: ["React", "TypeScript"],
    features: ["Accessible details"],
-   github: "https://github.com/Ajla115/ajlakorman.github.io",
+   github: "https://github.com/Ajla115/ajla115.github.io",
    live: "https://ajla115.github.io/",
    category: "Featured",
 };

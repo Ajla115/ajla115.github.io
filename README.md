@@ -1,11 +1,11 @@
 # Ajla Korman - Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/Ajla115/ajlakorman.github.io?style=flat-square&cacheSeconds=86400)
-![GitHub forks](https://img.shields.io/github/forks/Ajla115/ajlakorman.github.io?style=flat-square&cacheSeconds=86400)
+![GitHub stars](https://img.shields.io/github/stars/Ajla115/ajla115.github.io?style=flat-square&cacheSeconds=86400)
+![GitHub forks](https://img.shields.io/github/forks/Ajla115/ajla115.github.io?style=flat-square&cacheSeconds=86400)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Ajla115/ajlakorman.github.io?style=flat-square&cacheSeconds=86400)
+![Last Commit](https://img.shields.io/github/last-commit/Ajla115/ajla115.github.io?style=flat-square&cacheSeconds=86400)
 
-[![CI](https://github.com/Ajla115/ajlakorman.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/Ajla115/ajlakorman.github.io/actions/workflows/ci.yml)
+[![CI](https://github.com/Ajla115/ajla115.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/Ajla115/ajla115.github.io/actions/workflows/ci.yml)
 
 ![React Version](https://img.shields.io/badge/react-19-blue)
 ![TypeScript](https://img.shields.io/badge/typescript-strict-3178c6)
@@ -62,8 +62,8 @@ Section links support reloads and browser history. Navigation loads the content 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ajla115/ajlakorman.github.io.git
-cd ajlakorman.github.io
+git clone https://github.com/Ajla115/ajla115.github.io.git
+cd ajla115.github.io
 
 # Install dependencies (requires pnpm >=11, Node >=24.11)
 pnpm install

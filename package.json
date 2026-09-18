@@ -1,5 +1,5 @@
 {
-   "name": "ajlakorman.github.io",
+   "name": "ajla115.github.io",
    "version": "1.0.0",
    "type": "module",
    "packageManager": "pnpm@11.10.0",
@@ -69,11 +69,11 @@
    "description": "Ajla Korman's personal portfolio -- AI software engineering, agentic AI systems, and full-stack projects. Modern JSON-based data architecture, responsive design, and GitHub Pages deployment.",
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Ajla115/ajlakorman.github.io.git"
+      "url": "git+https://github.com/Ajla115/ajla115.github.io.git"
    },
    "author": "Ajla Korman <korman.ajla115@gmail.com>",
    "license": "GPL-3.0",
    "bugs": {
-      "url": "https://github.com/Ajla115/ajlakorman.github.io/issues"
+      "url": "https://github.com/Ajla115/ajla115.github.io/issues"
    }
 }
